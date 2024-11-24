@@ -28,7 +28,7 @@ Text-to-Speech Models
 
 ```bash
 git clone https://github.com/yourusername/OpenAI-TTS.git
-   cd OpenAI-TTS
+cd OpenAI-TTS
 ```
 
 2. 필요한 패키지를 설치
